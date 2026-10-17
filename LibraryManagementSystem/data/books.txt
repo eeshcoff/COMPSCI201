@@ -1,0 +1,8 @@
+Fiction,The Great Gatsby,F. Scott Fitzgerald,Printed,180
+Science,Quantum Physics 101,Albert Einstein,EBook,4.5
+Mystery,The Hound of the Baskervilles,Arthur Conan Doyle,Printed,256
+Fiction,Frankenstein,Mary Shelley,EBook,1.2
+Biography,The Diary of a Young Girl,Anne Frank,Printed,283
+Non-Fiction,Silent Spring,Rachel Carson,Printed,368
+Science,A Brief History of Time,Stephen Hawking,EBook,3.8
+Mystery,And Then There Were None,Agatha Christie,Printed,272
